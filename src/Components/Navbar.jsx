@@ -1,5 +1,4 @@
 import React from 'react'
-import loco from ".././assets/logo.png"
 const Navbar = () => {
     return (
         <div className="navbar max-w-screen-xl mx-auto py-8">
@@ -31,7 +30,7 @@ const Navbar = () => {
                         </li>
                     </ul>
                 </div>
-<img src={loco} alt="" />
+<img src="https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/456697119_1035068631665727_8685079845659028463_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFFrYQeEO7ZUUWqPWRU169NKvj70CQjm3sq-PvQJCObe3Vh_2yjeh37CDFcp7mb4LCJyoGtqTX4TjnaoZqw8vSQ&_nc_ohc=_nYnJpFA3nMQ7kNvgHaHCUf&_nc_ht=scontent.fdac175-1.fna&oh=00_AYCsil13I-Dvaz-qdct_ExfBNQ0vJ7XokTfLeYMaqm1fBg&oe=66CCDD0E" alt="" />
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-bold text-[20px]">
